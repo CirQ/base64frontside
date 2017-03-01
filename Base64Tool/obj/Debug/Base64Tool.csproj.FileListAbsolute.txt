@@ -1,0 +1,9 @@
+D:\C#\Base64Tool\Base64Tool\bin\Debug\Base64Tool.exe.config
+D:\C#\Base64Tool\Base64Tool\bin\Debug\Base64Tool.exe
+D:\C#\Base64Tool\Base64Tool\bin\Debug\Base64Tool.pdb
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.Form.resources
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.Properties.Resources.resources
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.csproj.GenerateResource.Cache
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.exe
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.pdb
+D:\C#\Base64Tool\Base64Tool\obj\Debug\Base64Tool.csprojResolveAssemblyReference.cache
